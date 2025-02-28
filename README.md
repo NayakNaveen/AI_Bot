@@ -1,4 +1,4 @@
-AI - Voice Assistant
+**AI - Voice Assistant**
 
 This Python-based voice assistant mimics basic functionalities similar to Alexa. It can perform various tasks, including telling time, date, searching Wikipedia, managing Chrome searches, providing jokes, and more. It uses several libraries, including pyttsx3 for text-to-speech, SpeechRecognition for speech-to-text, wikipedia for fetching information, and psutil for monitoring system stats like CPU usage and battery status.
 
